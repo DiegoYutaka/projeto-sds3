@@ -29,7 +29,6 @@ const BarChart = () => {
             type="bar"
             height="240"
         />
-
     );
 }
 
